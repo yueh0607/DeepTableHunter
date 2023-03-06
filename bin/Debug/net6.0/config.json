@@ -1,0 +1,18 @@
+{
+  "mode": 0,
+  "url": "https://www.chaojibiaoge.com/Form/webform_records/sharekey/7x9ppx8y/viewrecords/allRecords",
+  "items": [
+    "计算机科学与技术",
+    "软件工程",
+    "空间信息与数字技术",
+    "数据科学与大数据技术"
+  ],
+  "orders": [
+    "第一志愿",
+    "第二志愿",
+    "第三志愿",
+    "第四志愿"
+  ],
+  "delayTime": 5.0,
+  "total": "计科:100    软工:80    空间:79    大数据:40"
+}
